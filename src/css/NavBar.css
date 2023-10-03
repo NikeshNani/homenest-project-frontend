@@ -1,0 +1,12 @@
+/* CSS for Navbar Positioning */
+.navbar-left {
+    display: flex;
+    align-items: center;
+    margin-right: auto; /* Pushes "HomeNest" link to the left */
+  }
+  
+  .navbar-right {
+    display: flex;
+    align-items: center;
+  }
+  
